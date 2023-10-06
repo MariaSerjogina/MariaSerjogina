@@ -8,8 +8,9 @@
 - [Про бизнес-анализ и системный анализ](https://github.com/MariaSerjogina/MariaSerjogina/blob/main/BA%26SA.md)
 - [Про клиентский и пользовательский опыт](https://github.com/MariaSerjogina/MariaSerjogina/blob/main/CX%26UX.md)
 - [Про менеджмент бизнес-процессов](https://github.com/MariaSerjogina/MariaSerjogina/blob/main/BPM.md)
-- [Про бизнес-аналитику](https://github.com/MariaSerjogina/MariaSerjogina/blob/main/BI.md)
-
+- [Про менеджмент продуктов](https://github.com/MariaSerjogina/MariaSerjogina/blob/main/PM.md) 
+- [Про бизнес-аналитику](https://github.com/MariaSerjogina/MariaSerjogina/blob/main/BI.md)  
+  
 Если у тебя есть полезная ссылка или информация, которой можно дополнить списки, отправляй пул-реквест :smiley_cat:
 
 <!---
