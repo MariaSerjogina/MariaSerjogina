@@ -1,3 +1,7 @@
+# Про бизнес-анализ и системный анализ
+
+## Телеграм
+
 - Системный сдвиг https://t.me/systemswing
 - Системный анализ и Проектирование ИТ-систем https://t.me/itsysdes
 - Business | System analyst https://t.me/ba_and_sa
@@ -10,3 +14,7 @@
 - Базы данных & SQL https://t.me/db_in_it
 - Архитектура ИТ-решений https://t.me/it_arch
 - Systems.Education https://t.me/systems_education
+
+## YouTube  
+
+- Аналитик на галере https://www.youtube.com/@user-yf7nf5zt7m/featured
