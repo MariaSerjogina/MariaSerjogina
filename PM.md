@@ -1,4 +1,4 @@
-# Менеджмент продуктов
+# Про менеджмент продуктов
 
 ## Телеграм
 - Fresh Product Manager https://t.me/FreshProductGo
