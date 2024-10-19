@@ -11,3 +11,8 @@
 - Продакты не нужны https://t.me/betternotworse
 - Product Сult https://t.me/successfulproduct
 - Продакт с горящими глазами https://t.me/meta_product
+
+## Про Jobs-to-be-Done
+История https://strategyn.com/jobs-to-be-done/history-of-jtbd/
+Информация от Ивана Замесина https://zamesin.ru/books/product-howto/jtbd-101/
+Небольшой курс https://sense23.com/academy/module/vvedenie-v-jtbd-i-raznye-traktovki-teorii-rabot/
